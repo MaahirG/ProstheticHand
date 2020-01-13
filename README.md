@@ -1,7 +1,7 @@
 # ProstheticHand
 Lego EV3 Prosthetic Hand
 
-[![](https://img.youtube.com/vi/mdVFzBSiMns&t/0.jpg)](https://www.youtube.com/watch?v=mdVFzBSiMns&t)
+[![](https://img.youtube.com/vi/mdVFzBSiMns&t/0.jpg)](https://www.youtube.com/watch?v=mdVFzBSiMns&t=)
 
 
 
