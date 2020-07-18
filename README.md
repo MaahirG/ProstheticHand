@@ -1,5 +1,5 @@
 # ProstheticHand
-Lego EV3 Prosthetic Hand
+EV3 Prosthetic Hand
 
 Watch the demo here: https://www.youtube.com/watch?v=mdVFzBSiMns&t=
 
