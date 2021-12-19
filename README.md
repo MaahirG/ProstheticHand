@@ -7,6 +7,7 @@ Feel free to read the report here: https://documentcloud.adobe.com/link/track?ur
 
 ### The arm
 <img src='./media/arm.svg'>
+Photo credits @CathyQiu
 
 ### Software Design
 <img src='./media/design.png'>
